@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "483836794550",
+    "project_id": "personalprojects-a1ad3",
+    "storage_bucket": "personalprojects-a1ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483836794550:android:21e8b3f8d12fe0bcb4f817",
+        "android_client_info": {
+          "package_name": "com.example.cicdtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483836794550-gnruq7k6bec76vg9kqdop1jl7lsent7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNKB-BKcSkZoucvtmhROBcIUgdtCB5pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483836794550-gnruq7k6bec76vg9kqdop1jl7lsent7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483836794550:android:b1316d7f66c0ba2fb4f817",
+        "android_client_info": {
+          "package_name": "com.example.imagechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483836794550-gnruq7k6bec76vg9kqdop1jl7lsent7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNKB-BKcSkZoucvtmhROBcIUgdtCB5pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483836794550-gnruq7k6bec76vg9kqdop1jl7lsent7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
